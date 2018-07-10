@@ -1,0 +1,9 @@
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\bin\Debug\netstandard2.0\MyBooks.OCLCClassify.deps.json
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\bin\Debug\netstandard2.0\MyBooks.OCLCClassify.dll
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\bin\Debug\netstandard2.0\MyBooks.OCLCClassify.pdb
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\obj\Debug\netstandard2.0\MyBooks.OCLCClassify.vbprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\obj\Debug\netstandard2.0\MyBooks.OCLCClassify.vbproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\obj\Debug\netstandard2.0\MyBooks.OCLCClassify.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\obj\Debug\netstandard2.0\MyBooks.OCLCClassify.AssemblyInfo.vb
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\obj\Debug\netstandard2.0\MyBooks.OCLCClassify.dll
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.OCLCClassify\obj\Debug\netstandard2.0\MyBooks.OCLCClassify.pdb
