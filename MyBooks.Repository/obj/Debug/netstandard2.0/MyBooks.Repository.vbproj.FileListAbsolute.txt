@@ -1,0 +1,16 @@
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.Repository.deps.json
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.Repository.dll
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\obj\Debug\netstandard2.0\MyBooks.Repository.vbproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\obj\Debug\netstandard2.0\MyBooks.Repository.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\obj\Debug\netstandard2.0\MyBooks.Repository.AssemblyInfo.vb
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.Repository.pdb
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.Models.dll
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.Models.pdb
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\obj\Debug\netstandard2.0\MyBooks.Repository.vbprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\obj\Debug\netstandard2.0\MyBooks.Repository.vbproj.CopyComplete
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\obj\Debug\netstandard2.0\MyBooks.Repository.dll
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\obj\Debug\netstandard2.0\MyBooks.Repository.pdb
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.MARC.dll
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.MARC.pdb
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.OCLCClassify.dll
+C:\Users\Thomas\Documents\Visual Studio 2017\Projects\MyBooks\MyBooks.Repository\bin\Debug\netstandard2.0\MyBooks.OCLCClassify.pdb
